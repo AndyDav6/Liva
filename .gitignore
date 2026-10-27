@@ -1,0 +1,12 @@
+# Entorno Virtual de Python
+.venv/
+
+# Archivos temporales de Python
+_pycache_/
+*.py[cod]
+
+# Variables de entorno y secreto
+.env
+
+# Archivos de registro
+*.log
